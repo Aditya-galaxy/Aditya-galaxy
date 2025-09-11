@@ -1,7 +1,9 @@
 
 <div align="center">
-<h2> Hi there 👋 , I'm Aditya Kumar!</h2>
+<h2> Hi there 👋 , I'm Aditya Kumar! </br>
+   Welcome to my Github page 😊 </h2>
 </div>
+
 <!---
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
