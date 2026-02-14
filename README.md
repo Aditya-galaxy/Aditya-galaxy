@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2> Hi there 👋 , I'm Aditya Kumar! </br>
+<h2> Hi there 👋 ,My name is Aditya Kumar! </br>
    Welcome to my Github page 😊 </h2>
 </div>
 
