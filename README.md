@@ -1,7 +1,9 @@
 
 <div align="center">
-<h2> Hi there 👋 ,My name is Aditya Kumar! </br>
-   Welcome to my Github page 😊 </h2>
+<h2> Hi there 👋
+   Welcome to my Github page 😊 </br>
+I'm Obsessed with Building stuff, </br>
+   Let's connect and build some cool stuff</h2>
 </div>
 
 <!---
