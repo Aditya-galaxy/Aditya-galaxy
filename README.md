@@ -2,8 +2,8 @@
 <div align="center">
 <h2> Hi there 👋
    Welcome to my Github page 😊 </br>
-I'm Obsessed with Building stuff, </br>
-   Let's connect and build some cool stuff</h2>
+I'm Obsessed with Building projects, </br>
+   Let's connect and build something cool</h2>
 </div>
 
 <!---
