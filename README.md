@@ -1,6 +1,7 @@
 
 <div align="center">
-<h2> Hi there 👋
+<h2> Hi there 👋 I'm Aditya
+   <br/>
    Welcome to my Github page 😊 
    <br></br>
    I'm obsessed with building stuff, </br>
