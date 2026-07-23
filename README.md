@@ -11,7 +11,7 @@ Welcome to my GitHub page! 😊
 * **Distributed Systems Engineering:** Passionate about building high-throughput, low-latency distributed event streaming architectures.
 * **Cloud & Microservices:** Experienced in engineering decoupled, fault-tolerant microservices and multi-cloud infrastructure.
 * **Web3 & Decentralization:** Focused on building fully on-chain platforms and utilizing smart contracts to ensure data sovereignty and censorship resistance.
-* **Intelligent Agents:** Skilled in developing and integrating AI agent ecosystems.
+* **Intelligent Agents:** Skilled in developing and integrating Agentic AI ecosystems.
 
 ---
 
