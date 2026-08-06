@@ -18,7 +18,7 @@ Welcome to my GitHub page! 😊
 ### 🛠️ Technical Skills
 
 * **Languages & Core Backend:** Rust, Python, Java, Spring Boot, Shell Scripting
-* **Cloud, DevOps & Infrastructure:** Kubernetes (AKS/HPA), Docker, Container Apps, Linux/Unix System Administration, VM Rightsizing, Azure, AWS, GCP
+* **Cloud, DevOps & Infrastructure:** Kubernetes (AKS/HPA), Docker, Container Apps, Linux/Unix System Administration, VM Rightsizing,VMSS, Azure, AWS, GCP
 * **Data & Streaming Pipelines:** Apache Kafka, Fluvio (Rust), Redpanda, Azure EventHub, MQTT (EMQX), PostgreSQL, Databricks Delta Lake
 * **AI & Machine Learning:** Agentic AI, LangChain, LangGraph, Machine Learning
 * **Blockchain & Web3:** Smart Contracts (ICP/Rust), On-chain Canister Development, Decentralized Platforms
