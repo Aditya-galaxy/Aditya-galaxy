@@ -33,4 +33,4 @@ Python, Rust, Java, SQL · PyTorch, NumPy, pandas, SciPy · Kafka, PostgreSQL ·
 
 ---
 
-<!-- CONTACT: add your email here, e.g. [you@example.com](mailto:you@example.com) -->
+[aditya.socialinfo@gmail.com](aditya.socialinfo@gmail.com)
