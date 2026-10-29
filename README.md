@@ -1,12 +1,10 @@
-### Aditya Kumar
+## Aditya Kumar
 
-Software engineer moving into computational biology. I build systems that act on evidence, and I care most about measuring whether they are right.
-
-**Now:** looking for research internships and PhD positions in human biology, health, neuroscience and ageing, where machine learning meets biological data.
+Software engineer and Researcher. I build systems that act on evidence, and I care most about measuring whether they are right.
 
 ---
 
-#### Research
+### Research
 
 **[openvitals](https://github.com/Aditya-galaxy/openvitals)**: open, validated sleep and recovery algorithms for wrist wearables, and a benchmark that keeps them honest.
 Whole-night sequence models beat standard baselines by 0.11 to 0.18 kappa, including when trained on one cohort and tested on another, and once a model sees the whole night, adding motion makes no measurable difference. Subject-wise splits, five seeds, confidence intervals that resample people rather than nights.
