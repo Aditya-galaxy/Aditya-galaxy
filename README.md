@@ -1,6 +1,6 @@
 ## Aditya Kumar
 
-Software engineer and Researcher. I build systems that act on evidence, and I care most about measuring whether they are right.
+Researcher and software engineer. I build systems that act on evidence, and I care most about measuring whether they are right.
 
 ---
 
