@@ -25,7 +25,7 @@ Each action class runs unattended only after a measured bound on how often it wo
 
 #### Work
 
-Software Development Engineer Intern at **Matter Link** (2026): a distributed event streaming system in Rust and Python, peaking above 60K+ TPS.
+Software Development Engineer Intern at **Matter Link** (2026): Built a distributed event streaming system in Rust and Python, peaking above 60K TPS. Contributed to backend product development and auth service, Java spring boot.
 
 #### Tools
 
