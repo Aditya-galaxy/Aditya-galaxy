@@ -23,9 +23,8 @@ An event study of 433 Upbit notices against Binance's one-second prices: the med
 
 #### Built and shipped
 
-- **[noscam](https://github.com/Aditya-galaxy/noscam)**: holds payments, OTPs and app installs that came from a scam message, and flags hidden spyware on Android. 2nd place, TLN Cybersecurity Challenge 2026.
-- **[hopscotch](https://github.com/Aditya-galaxy/hopscotch)**: an agent fleet that keeps school districts within legal deadlines for special education evaluations. Gemini and Google ADK on Cloud Run.
-- **[recap](https://github.com/Aditya-galaxy/recap)**: turns screen recordings into step-by-step guides and bug reports, on your own computer.
+- **[noscam](https://github.com/Aditya-galaxy/noscam)**: Antivirus for scams. 2nd place, TLN Cybersecurity Challenge 2026.
+- **[recap](https://github.com/Aditya-galaxy/recap)**: Open-source Loom alternative that runs entirely on your machine: Electron + Next.js, whisper.cpp transcripts, ffmpeg edits. Guides, bug reports and one-click social videos.
 
 #### Work
 
