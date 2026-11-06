@@ -1,6 +1,6 @@
 ## Aditya Kumar
 
-Researcher and software engineer. I build systems that act on evidence, and I care most about measuring whether they are right.
+Researcher and Software Engineer. I build systems that act on evidence, and I care most about measuring whether they are right.
 
 ---
 
@@ -16,10 +16,7 @@ Cellpose's nucleus model scores zero on stained tissue and brightfield images, a
 On the GB1 fitness landscape, neural networks beat an additive model only when training data already contains combinations of mutations, and their ensemble uncertainty carries no signal when they have to extrapolate. Protein language model features (ESM-2) lift the hardest case from 0.55 to 0.75, but a BLOSUM62 control shows half of that is amino-acid similarity alone.
 
 **[kronagent](https://github.com/Aditya-galaxy/kronagent)**: an AI agent for cloud security response that earns its autonomy.
-Each action class runs unattended only after a measured bound on how often it would have been wrong, and is suspended after a wrong autonomous action. Includes a prompt-injection red-team suite and an evaluation harness with confidence intervals. Source-available.
-
-**[hyperion](https://github.com/Aditya-galaxy/hyperion)**: what exchange notices do to crypto prices, second by second.
-An event study of 433 Upbit notices against Binance's one-second prices: the median listing trade paid only if filled in the same second as the notice, and lost money after fees one second later.
+Each action class runs unattended only after a measured bound on how often it would have been wrong, and is suspended after a wrong autonomous action. Includes a prompt-injection red-team suite and an evaluation harness with confidence intervals.
 
 #### Built and shipped
 
@@ -28,11 +25,11 @@ An event study of 433 Upbit notices against Binance's one-second prices: the med
 
 #### Work
 
-Software Development Engineer Intern at **Matter Link** (2026): a distributed event streaming system in Rust and Python, peaking above 60,000 messages a second.
+Software Development Engineer Intern at **Matter Link** (2026): a distributed event streaming system in Rust and Python, peaking above 60K+ TPS.
 
 #### Tools
 
-Python, Rust, C++, Java, SQL · PyTorch, Hugging Face Transformers, Cellpose, NumPy, pandas, SciPy · Kafka, PostgreSQL · Kubernetes, Docker, AWS, Azure, GCP
+Python, Rust, C++, Java, SQL · PyTorch, NumPy, pandas, matplotlib, SciPy · Kafka, PostgreSQL · Kubernetes, Docker, Azure, AWS, GCP
 
 ---
 
