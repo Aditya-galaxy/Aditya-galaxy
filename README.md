@@ -1,6 +1,6 @@
 ## Aditya Kumar
 
-Researcher and Software Engineer. I build systems that act on evidence, and I care most about measuring whether they are right.
+Software Engineer and Researcher. I build systems that act on evidence, and I care most about measuring whether they are right.
 
 ---
 
@@ -29,7 +29,7 @@ Software Development Engineer Intern at **Matter Link** (2026): Built a distribu
 
 #### Tools
 
-Python, Rust, C++, Java, SQL · PyTorch, NumPy, pandas, matplotlib, SciPy · Kafka, PostgreSQL · Kubernetes, Docker, Azure, GCP
+Python, Rust, C++, Java, SQL ·PyTorch, NumPy, pandas, matplotlib, SciPy ·Kafka, PostgreSQL ·Kubernetes, Docker, Azure, AWS, GCP
 
 ---
 
