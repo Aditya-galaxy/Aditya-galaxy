@@ -29,7 +29,7 @@ Software Development Engineer Intern at **Matter Link** (2026): Built a distribu
 
 #### Tools
 
-Python, Rust, C++, Java, SQL ·PyTorch, NumPy, pandas, matplotlib, SciPy ·Kafka, PostgreSQL ·Kubernetes, Docker, Azure, AWS, GCP
+Python, Rust, C++, Java, SQL · PyTorch, NumPy, pandas, matplotlib, SciPy · Kafka, PostgreSQL · Kubernetes, Docker, Azure, AWS, GCP
 
 ---
 
