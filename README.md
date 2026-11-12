@@ -21,7 +21,7 @@ Each action class runs unattended only after a measured bound on how often it wo
 #### Built and shipped
 
 - **[noscam](https://github.com/Aditya-galaxy/noscam)**: Antivirus for scams. 2nd place, TLN Cybersecurity Challenge 2026.
-- **[recap](https://github.com/Aditya-galaxy/recap)**: Open-source Loom alternative that runs entirely on your machine: Electron + Next.js, whisper.cpp transcripts, ffmpeg edits. Guides, bug reports and one-click social videos.
+- **[recap](https://github.com/Aditya-galaxy/recap)**: Screen recorder for Mac, Windows and Linux. Turns recordings into ready-to-post videos.
 
 #### Work
 
