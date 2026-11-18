@@ -7,7 +7,7 @@ Software Engineer and Researcher. I build systems that act on evidence, and I ca
 ### Research
 
 **[openvitals](https://github.com/Aditya-galaxy/openvitals)**: open, validated sleep and recovery algorithms for wrist wearables, and a benchmark that keeps them honest.
-Whole-night sequence models beat standard baselines by 0.11 to 0.18 kappa, including when trained on one cohort and tested on another, and once a model sees the whole night, adding motion makes no measurable difference. Subject-wise splits, five seeds, confidence intervals that resample people rather than nights.
+A heart-rate-only ensemble (5 TCNs + 5 GRUs, a 1 MB ONNX file) stages sleep at kappa 0.51 on a cohort it never saw, near commercial-watch level, and `openvitals stage` runs it on Apple Health, Gadgetbridge or CSV exports. On 100 sleep-clinic patients with a different wristband, the same model halves to 0.24: the benchmark's main finding is that headline accuracy doesn't transfer across people and devices. Wrist HRV against ECG has a 16% nightly error and ranks people well, but reads about 28% high, so it's reported as a personal trend, not an absolute value.
 
 **[nuclei-shift](https://github.com/Aditya-galaxy/nuclei-shift)**: does a cell segmentation model know when a microscope image is unlike its training data?
 Cellpose's nucleus model scores zero on stained tissue and brightfield images, and inverting brightness recovers most of it. Its confidence flags its own failures almost perfectly, while the generalist model stays confident while failing. Fine-tuning on up to 50 annotated images did not catch up with the one-line fix. Also run as a Cloud Run batch job: $0.65 per 1,000 images.
