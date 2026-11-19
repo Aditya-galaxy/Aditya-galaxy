@@ -15,9 +15,6 @@ Cellpose's nucleus model scores zero on stained tissue and brightfield images, a
 **[gb1-fitness](https://github.com/Aditya-galaxy/gb1-fitness)**: can a model trained on simple protein variants predict complex ones, and does it know when it is wrong?
 On the GB1 fitness landscape, neural networks beat an additive model only when training data already contains combinations of mutations, and their ensemble uncertainty carries no signal when they have to extrapolate. Protein language model features (ESM-2) lift the hardest case from 0.55 to 0.75, but a BLOSUM62 control shows half of that is amino-acid similarity alone.
 
-**[kronagent](https://github.com/Aditya-galaxy/kronagent)**: an AI agent for cloud security response that earns its autonomy.
-Each action class runs unattended only after a measured bound on how often it would have been wrong, and is suspended after a wrong autonomous action. Includes a prompt-injection red-team suite and an evaluation harness with confidence intervals.
-
 #### Built and shipped
 
 - **[noscam](https://github.com/Aditya-galaxy/noscam)**: Antivirus for scams. 2nd place, TLN Cybersecurity Challenge 2026.
