@@ -21,11 +21,6 @@ Cellpose's nucleus model scores zero on stained tissue and brightfield images, a
 **[openvitals](https://github.com/Aditya-galaxy/openvitals)**: open, validated sleep and recovery algorithms for wrist wearables, and a benchmark that keeps them honest.
 A heart-rate-only ensemble (5 TCNs + 5 GRUs, a 1 MB ONNX file) stages sleep at kappa 0.51 on a cohort it never saw, near commercial-watch level, and `openvitals stage` runs it on Apple Health, Gadgetbridge or CSV exports. On 100 sleep-clinic patients with a different wristband, the same model halves to 0.24: the benchmark's main finding is that headline accuracy doesn't transfer across people and devices. Wrist HRV against ECG has a 16% nightly error and ranks people well, but reads about 28% high, so it's reported as a personal trend, not an absolute value.
 
-#### Built and shipped
-
-- **[noscam](https://github.com/Aditya-galaxy/noscam)**: Antivirus for scams. 2nd place, TLN Cybersecurity Challenge 2026.
-- **[recap](https://github.com/Aditya-galaxy/recap)**: Screen recorder for Mac, Windows and Linux. Turns recordings into ready-to-post videos.
-
 #### Work
 
 Software Development Engineer Intern at **Matter** (2026): Built a distributed event streaming system in Rust and Python, peaking above 60K TPS. Contributed to backend product development and auth service, Java spring boot.
