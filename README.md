@@ -9,6 +9,9 @@ Software Engineer and Researcher. I build systems that act on evidence, and I ca
 **[protein-binder-design](https://github.com/Aditya-galaxy/protein-binder-design)**: can computational geometry and inverse folding generate functional de novo miniprotein binders against therapeutic cancer checkpoints without wet-lab screening?
 Designed 3-helix bundle scaffolds targeting the human PD-1/PD-L1 checkpoint interface (PDB 4ZQK). Using SE(3) rotation alignment to biological hotspots (Tyr56, Gln66, Met115) and a ProteinMPNN inverse-folding decoder with a 3-residue autoregressive repetition penalty, lead candidates achieve pLDDT 93.6, ipTM 0.731, ΔSASA 889 Å², and shape complementarity $S_c$ 0.662 with zero steric clashes.
 
+**[epigenetic-clock](https://github.com/Aditya-galaxy/epigenetic-clock)**: can machine learning decode biological age from DNA methylation, and prove whether cellular rejuvenation actually works?
+Trained multi-tissue epigenetic clocks (Elastic Net and sparse PyTorch MLP) on human DNA methylation arrays ($\beta \in [0, 1]$) with Horvath logarithmic age transformations ($r = 0.945$, MAE $7.1\text{ yrs}$). The sparse model isolates 35 predictive loci (*ELOVL2*, *FHL2*, *KLF14*, *ASPA*), mapping $24.8\%$ of positive weight to lipid membrane remodeling and $31.4\%$ of negative weight to heterochromatin decay. Benchmarking Yamanaka factor (OSKM) reprogramming shows a 12.0-year biological age reversal during partial reprogramming (Days 3–7) before somatic identity is lost, resetting to 0.8 years (98.4% rejuvenation) in fully reprogrammed iPSCs.
+
 **[gb1-fitness](https://github.com/Aditya-galaxy/gb1-fitness)**: can a model trained on simple protein variants predict complex ones, and does it know when it is wrong?
 On the GB1 fitness landscape, neural networks beat an additive model only when training data already contains combinations of mutations, and their ensemble uncertainty carries no signal when they have to extrapolate. Protein language model features (ESM-2) lift the hardest case from 0.55 to 0.75 (a BLOSUM62 control shows half of that is amino-acid similarity alone). Bayesian active learning (Expected Improvement) discovers the global optimum quadruple mutant `FWAA` within 240 assays (<2.8% of library), while 3D structural analysis links the strongest 2nd-order non-additive epistasis (coupling 4.31) to sub-4 Å physical proximity across the antiparallel β-hairpin contacting antibody Fc.
 
@@ -29,7 +32,7 @@ Software Development Engineer Intern at **Matter** (2026): Built a distributed e
 
 #### Tools
 
-Python, Rust, C++, Java, SQL · PyTorch, Biopython, PyMOL, NumPy, pandas, matplotlib, SciPy · Kafka, PostgreSQL · Kubernetes, Docker, Azure, AWS, GCP
+Python, Rust, C++, Java, SQL · PyTorch, scikit-learn, Biopython, PyMOL, NumPy, pandas, matplotlib, SciPy · Kafka, PostgreSQL · Kubernetes, Docker, Azure, AWS, GCP
 
 ---
 
